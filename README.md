@@ -41,7 +41,7 @@ HUGGINGFACE_MODEL_NAME_EMB = "嵌入模型名称（如：sentence-transformers/a
 HUGGINGFACE_API_KEY = "your_huggingface_api_key"  
 
 # 其他参数
-CHUNK_SIZE = 512       # 文本分块大小
+CHUNK_SIZE = 500       # 文本分块大小
 RRF_PARAM = 6          # RRF 算法融合参数
 
 # 🚦 运行流程
