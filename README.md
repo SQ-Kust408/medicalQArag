@@ -57,3 +57,4 @@ python main.py
 性能优化：GPU 可加速向量嵌入计算，建议在处理大规模语料时启用。
 # 🙌 贡献说明
 本项目代码基于 B 站教程：【RAG 实战】医疗问答系统开发教程欢迎提交 PR 优化代码、补充文档或报告问题！
+https://www.bilibili.com/video/BV1oMYje7EHU/?spm_id_from=333.1387.favlist.content.click
